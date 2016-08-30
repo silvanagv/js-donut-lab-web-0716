@@ -1,0 +1,19 @@
+{
+  "name": "js-donut-lab-web-0716",
+  "version": "1.0.0",
+  "description": "Build a donut counting app to make sure there are enough donuts for your guests. Never again will you endure sleepless nights worrying if you have enough donuts on hand for your hungry friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvanagv/js-donut-lab-web-0716.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvanagv/js-donut-lab-web-0716/issues"
+  },
+  "homepage": "https://github.com/silvanagv/js-donut-lab-web-0716#readme"
+}
